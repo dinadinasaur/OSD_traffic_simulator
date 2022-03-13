@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<CodeBlocks_project_file>
+	<FileVersion major="1" minor="6"/>
+	<Project>
+		<Option title="untitled52"/>
+		<Option makefile_is_custom="1"/>
+		<Option compiler="gcc"/>
+		<Option virtualFolders="CMake Files\;"/>
+		<Build>
+			<Target title="all">
+				<Option working_dir="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 all"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="rebuild_cache">
+				<Option working_dir="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 rebuild_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="edit_cache">
+				<Option working_dir="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/cmake-build-debug"/>
+				<Option type="4"/>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 edit_cache"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled52">
+				<Option output="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/cmake-build-debug/untitled52" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled52"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+			<Target title="untitled52/fast">
+				<Option output="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/cmake-build-debug/untitled52" prefix_auto="0" extension_auto="0"/>
+				<Option working_dir="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/cmake-build-debug"/>
+				<Option object_output="./"/>
+				<Option type="1"/>
+				<Option compiler="gcc"/>
+				<Compiler>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/../include/c++/v1"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/lib/clang/13.0.0/include"/>
+					<Add directory="/Applications/Xcode.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/include"/>
+					<Add directory="/System/Library/Frameworks"/>
+					<Add directory="/Library/Frameworks"/>
+				</Compiler>
+				<MakeCommands>
+					<Build command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 untitled52/fast"/>
+					<CompileFile command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 &quot;$file&quot;"/>
+					<Clean command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+					<DistClean command="/usr/bin/make -j4 -f &quot;/Users/dinabecaj/CLionProject/Object\ Oriented\ Traffic\ Simulator\ Project/cmake-build-debug/Makefile&quot;  VERBOSE=1 clean"/>
+				</MakeCommands>
+			</Target>
+		</Build>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Car.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Car.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Constants.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Constants.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Dynamicroaditem.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Dynamicroaditem.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/GUI.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/GUI.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/ISimInput.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/ISimInput.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/ISimOutput.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/ISimOutput.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/ImperialGUI.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/ImperialGUI.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Intersection.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Intersection.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Map.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Map.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/MetricGUI.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/MetricGUI.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Road.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Road.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Roaditem.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Roaditem.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Simulation.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Simulation.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Speedlimit.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Speedlimit.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Staticroaditem.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Staticroaditem.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Stopsign.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Stopsign.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Timer.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Timer.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Trafficlight.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Trafficlight.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Truck.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Truck.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Vehicle.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Vehicle.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Yield.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Yield.h">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/main.cpp">
+			<Option target="untitled52"/>
+		</Unit>
+		<Unit filename="/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/CMakeLists.txt">
+			<Option virtualFolder="CMake Files\"/>
+		</Unit>
+	</Project>
+</CodeBlocks_project_file>

@@ -1,0 +1,90 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Car.h
+Vehicle.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Vehicle.h
+
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Constants.h
+
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Dynamicroaditem.h
+Roaditem.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Roaditem.h
+Constants.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Constants.h
+
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/GUI.h
+Vehicle.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Vehicle.h
+ISimInput.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/ISimInput.h
+ISimOutput.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/ISimOutput.h
+
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/ISimInput.h
+Vehicle.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Vehicle.h
+
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/ISimOutput.h
+Vehicle.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Vehicle.h
+
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/ImperialGUI.cpp
+ImperialGUI.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/ImperialGUI.h
+
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/ImperialGUI.h
+Vehicle.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Vehicle.h
+GUI.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/GUI.h
+
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/MetricGUI.cpp
+MetricGUI.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/MetricGUI.h
+
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/MetricGUI.h
+Vehicle.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Vehicle.h
+GUI.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/GUI.h
+
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Roaditem.h
+
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Truck.h
+Vehicle.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Vehicle.h
+Constants.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Constants.h
+
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Vehicle.h
+Constants.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Constants.h
+Dynamicroaditem.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Dynamicroaditem.h
+
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/main.cpp
+iostream
+-
+Vehicle.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Vehicle.h
+Car.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Car.h
+Truck.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/Truck.h
+list
+-
+typeinfo
+-
+iomanip
+-
+MetricGUI.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/MetricGUI.h
+ImperialGUI.h
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/ImperialGUI.h
+

@@ -1,0 +1,3 @@
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/dinabecaj/CLionProject/Object Oriented Traffic Simulator Project/cmake-build-debug/CMakeFiles/untitled52.dir
